@@ -26,6 +26,8 @@ A minimal chatbot that uses FAISS to analyze and answer basic queries using the 
 
 ## Dataset
 
+Dataset : https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset
+
 1. pip install kaggle
 2. Create a new API token and download json file to it
 3. Create a .kaggle folder
