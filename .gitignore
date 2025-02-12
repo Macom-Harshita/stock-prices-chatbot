@@ -1,0 +1,14 @@
+# Ignore virtual environment
+env/
+
+# Ignore dataset folder and large files
+stock-market-dataset/
+*.zip
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore unnecessary system files
+*.pyc
+__pycache__/
+.DS_Store
